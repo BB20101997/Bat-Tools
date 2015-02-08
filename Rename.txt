@@ -1,4 +1,4 @@
-the copy bat needs 4 command line arguments
+the copy bat needs 5 command line arguments
 
 examle  test0.txt
 	test1.txt
